@@ -1,7 +1,7 @@
-### Hi there 👋, I'm [Krishnakishor](https://github.com/krishnakishor13) 👨‍💻
+### Hi there 👋, I'm [Saharukh Shaikh](https://github.com/SaharukhShaikh) 👨‍💻
 
 ### Visitors-Count
-![Visitor Count](https://profile-counter.glitch.me/{krishnakishor13}/count.svg)   
+![Visitor Count](https://profile-counter.glitch.me/{SaharukhShaikh}/count.svg)   
 
 <br/>
 
@@ -86,15 +86,15 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 ----------------------------------------------------------
 
-![](https://github-readme-stats.vercel.app/api?username=krishnakishor13&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=SaharukhShaikh&theme=blue-green)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakishor13&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaharukhShaikh&theme=blue-green)
 
 
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 <!---
-krishnakishor13/krishnakishor13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SaharukhShaikh/SaharukhShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
