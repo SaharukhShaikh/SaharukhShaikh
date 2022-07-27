@@ -69,13 +69,13 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Krishnakishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imkrishna13/)](https://www.linkedin.com/in/imkrishna13/) or [![Gmail Badge](https://img.shields.io/badge/-krishnakishor@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishnakishor@techis.io)](mailto:krishnakishor@techis.io)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Krishnakishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imkrishna13/)](https://www.linkedin.com/in/imkrishna13/) or [![Gmail Badge](https://img.shields.io/badge/-saharukh@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukh@techis.io)](mailto:saharukh@techis.io)
 
 
 ###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/krishnakishor13?label=Follow&style=social)](https://github.com/krishnakishor13/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mrkunjiraman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrkunjiraman)](https://twitter.com/mrkunjiraman) if you are on a similar path as mine.
 
 
-###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Krishnakishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imkrishna13/)](https://www.linkedin.com/in/imkrishna13/)
+###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Krishnakishor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saharukh-shaikh-652b7b157/]([https://www.linkedin.com/in/saharukh-shaikh-652b7b157/](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/)](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/))
 
 
 ----------------------------------------------------------
