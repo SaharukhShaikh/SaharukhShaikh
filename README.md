@@ -6,11 +6,11 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/imkrishna13/">
-  <img align="left" alt="Krishna's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Saharukh's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://t.me/jrnair13">
-  <img align="left" alt="Krishna's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img align="left" alt="Saharukh's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/mrkunjiraman">
