@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm [Saharukh Shaikh](https://github.com/SaharukhShaikh) 👨‍💻
 
 ### Visitors-Count
-![Visitor Count](https://profile-counter.glitch.me/{SaharukhShaikh}/count.svg)   
-
+![Visitor Count](https://profile-counter.glitch.me/{SaharukhShaikh}/count.svg)
 <br/>
 
 <a href="https://www.linkedin.com/in/saharukh-shaikh-652b7b157/">
