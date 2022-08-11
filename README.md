@@ -8,15 +8,9 @@
   <img align="left" alt="Saharukh's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-#####<a href="https://t.me/jrnair13">
-#####  <img align="left" alt="Saharukh's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-#####badge&logo=telegram&logoColor=white" />
-#####</a>
 
-######<a href="https://twitter.com/mrkunjiraman">
-###### <img align="left" alt="kunjiRaman | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-######badge&logo=twitter&logoColor=white" />
-######</a>
 
-<a href="mailto:krishnakishor@techis.io">
+<a href="mailto:saharukh@techis.io">
   <img align="left" alt="krishna's's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
