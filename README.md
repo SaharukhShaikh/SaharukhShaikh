@@ -2,7 +2,7 @@
 
 ### Visitors-Count
 ![Visitor Count](https://profile-counter.glitch.me/{SaharukhShaikh}/count.svg)
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/saharukh-shaikh-652b7b157/">
   <img align="left" alt="Saharukh's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
