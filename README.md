@@ -61,7 +61,8 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/) or [![Gmail Badge](https://img.shields.io/badge/-saharukh@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukh@techis.io)](mailto:saharukh@techis.io)
+###### ❤️ Offer work : Send the offer on [!https://cdn-icons-png.flaticon.com/512/733/733609.png](https://cdn-icons-png.flaticon.com/512/733/733609.png)[Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/)
+or [![Gmail Badge](https://img.shields.io/badge/-saharukh@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukh@techis.io)](mailto:saharukh@techis.io)
 
 
 ###### ❤️ Follow : You can follow me here on [![GitHub followers](https://github.com/SaharukhShaikh)
