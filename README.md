@@ -20,9 +20,9 @@
 <br/>
 
 <p>
-A Skilled FullStack Web Developer 🚀 from India. Always working on some project or learning something new!
+A skilled UI/UX Designer 🚀 from India. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : React-Redux
+Stacks I have worked with : React and Django
 <br/>  
 Things I am currently experimenting with : Desinging tools like Figma, adobe xd etc.
 <br/>
@@ -35,17 +35,19 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a Trainee @ [TECHIS](https://techis.io/)
-
 - 📫 How to reach me: cr7.saharukh@gmail.com
 - 📝 [Resume](file:///C:/Users/LENOVO/Desktop/Saharukh_Shaikh_CV.pdf)
 
 ### 🛠️ Languages and Tools:
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
+![Adobe-InDesign](https://img.shields.io/badge/Adobe-InDesign-FF61F6?style=for-the-badge&logo=Adobe-InDesign&logoColor=Red)
+1[adobepremierepro](https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
 ![Adobe-xd](https://img.shields.io/badge/Adobe-xd-FF61F6?style=for-the-badge&logo=Adobe-xd&logoColor=black)
+![adobeillustrator](https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -58,13 +60,12 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
 
 ###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/)
-or [![Gmail Badge](https://img.shields.io/badge/-saharukh@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukh@techis.io)](mailto:cr7.saharukh@gmail.com)
+or [![Gmail Badge](https://img.shields.io/badge/-cr7.saharukh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cr7.saharukh@gmail.com)](mailto:cr7.saharukh@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [GitHub followers](https://github.com/SaharukhShaikh)
