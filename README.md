@@ -42,7 +42,7 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
 ![Adobe-InDesign](https://img.shields.io/badge/Adobe-InDesign-FF61F6?style=for-the-badge&logo=Adobe-InDesign&logoColor=Red)
-1[adobepremierepro](https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
+![adobepremierepro](https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
 ![Adobe-xd](https://img.shields.io/badge/Adobe-xd-FF61F6?style=for-the-badge&logo=Adobe-xd&logoColor=black)
 ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=black)
