@@ -24,7 +24,7 @@ A Skilled FullStack Web Developer 🚀 from India. Always working on some projec
 <br/>
 Stacks I have worked with : React-Redux
 <br/>  
-Things I am currently experimenting with : Redux, JavaScript, SAAS
+Things I am currently experimenting with : Desinging tools like Figma, adobe xd etc.
 <br/>
 Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 </p>
@@ -34,13 +34,14 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
+- 👨🏽‍💻 I’m currently working as a Trainee @ [TECHIS](https://techis.io/)
 
-- 📫 How to reach me: saharukh@techis.io
-- 📝 [Resume](https://saharukh-portfolio.herokuapp.com/)
+- 📫 How to reach me: cr7.saharukh@gmail.com
+- 📝 [Resume](file:///C:/Users/LENOVO/Desktop/Saharukh_Shaikh_CV.pdf)
 
 ### 🛠️ Languages and Tools:
 
+![Figma](#F24E1E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -62,7 +63,7 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 
 ###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/)
-or [![Gmail Badge](https://img.shields.io/badge/-saharukh@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukh@techis.io)](mailto:saharukh@techis.io)
+or [![Gmail Badge](https://img.shields.io/badge/-saharukh@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukh@techis.io)](mailto:cr7.saharukh@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [GitHub followers](https://github.com/SaharukhShaikh)
