@@ -26,7 +26,7 @@ Stacks I have worked with : React and Django
 <br/>  
 Things I am currently experimenting with : Desinging tools like Figma, adobe xd etc.
 <br/>
-Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
+Want to become an Graphic Designer 💸 and an Open Source Contributor ❤️.
 </p>
 
 
