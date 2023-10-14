@@ -10,7 +10,7 @@
 
 
 
-<a href="mailto:saharukh@techis.io">
+<a href="mailto:cr7.saharukh@gmail.com">
   <img align="left" alt="krishna's's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
