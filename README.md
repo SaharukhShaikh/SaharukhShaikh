@@ -41,7 +41,8 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 ### 🛠️ Languages and Tools:
 
-![Figma](#F24E1E)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
+![Adobe-xd](https://img.shields.io/badge/Adobe-xd-FF61F6?style=for-the-badge&logo=Adobe-xd&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
