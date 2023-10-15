@@ -26,7 +26,7 @@ Stacks I have worked with : React and Django
 <br/>  
 Things I am currently experimenting with : Desinging tools like Figma, adobe xd etc.
 <br/>
-Want to become an Graphic Designer 💸 and an Open Source Contributor ❤️.
+Want to become an Wed and Mobile Application Designer 💸 and an Open Source Contributor ❤️.
 </p>
 
 
@@ -35,7 +35,7 @@ Want to become an Graphic Designer 💸 and an Open Source Contributor ❤️.
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a Trainee @ [TECHIS](https://techis.io/)
-- 📫 How to reach me: [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRspXNJdFkBzQJtjspjHLZJhsjlmZWLtjCmrDVGqbsSsxxGHdNXJkhpFZxHnMSqvlPcmmtg)
+- 📫 How to reach me: [cr7.saharukh@gmail.com]
 - 📝 [Resume](https://drive.google.com/file/d/1Tmrog8j8PrRDASTHmnRvYJmC4eW9OLCL/view)
 
 ### 🛠️ Languages and Tools:
