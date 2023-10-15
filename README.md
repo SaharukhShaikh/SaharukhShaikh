@@ -35,8 +35,8 @@ Want to become an Graphic Designer 💸 and an Open Source Contributor ❤️.
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a Trainee @ [TECHIS](https://techis.io/)
-- 📫 How to reach me: cr7.saharukh@gmail.com
-- 📝 [Resume](file:///C:/Users/LENOVO/Desktop/Saharukh_Shaikh_CV.pdf)
+- 📫 How to reach me: ![Email](cr7.saharukh@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1Tmrog8j8PrRDASTHmnRvYJmC4eW9OLCL/view)
 
 ### 🛠️ Languages and Tools:
 
