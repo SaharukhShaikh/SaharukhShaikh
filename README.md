@@ -4,14 +4,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/{SaharukhShaikh}/count.svg)
 <br>
 
-<a href="https://www.linkedin.com/in/saharukh-shaikh-652b7b157/">
+<a href="https://www.linkedin.com/in/saharukh-shaikh/">
   <img align="left" alt="Saharukh's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
 
 <a href="mailto:cr7.saharukh@gmail.com">
-  <img align="left" alt="krishna's's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="saharukh's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
@@ -20,13 +20,52 @@
 <br/>
 
 <p>
-A skilled UI/UX Designer 🚀 from India. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : React and Django
-<br/>  
-Things I am currently experimenting with : Desinging tools like Figma, adobe xd etc.
-<br/>
-Want to become an Wed and Mobile Application Designer 💸 and an Open Source Contributor ❤️.
+<br />
+🎨 Welcome to my creative corner! I'm Saharukh Shaikh a passionate UI/UX designer committed to crafting seamless and visually appealing digital experiences. 
+<br />  
+With a blend of artistic flair and technical expertise, I thrive on transforming complex ideas into user-friendly designs.
+<br />
+🌐 Professional Journey:
+<br />
+Having embarked on my journey in the dynamic world of design, I've accumulated 4 years of experience in conceptualising and delivering innovative solutions. 
+<br />
+My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
+<br />
+💼 Expertise:
+<br />
+From wire-framing to prototyping and everything in between, I specialise in translating ideas into intuitive and visually stunning interfaces. 
+<br />
+Proficient in industry-standard tools like Adobe Creative Suite, and Figma, I am well-versed in the nuances of user-centered design.
+<br />
+🚀 Design Philosophy:
+<br />
+I believe that effective design is not just about aesthetics; it's about enhancing functionality and creating a delightful user journey. 
+<br />
+Every pixel I place is a deliberate step towards achieving a harmonious balance between form and function.
+<br />
+🔧 Skill Set:
+<br />
+User Interface (UI) Design
+<br />
+User Experience (UX) Design
+<br />
+Wireframing & Prototyping
+<br />
+Interaction Design
+<br />
+Information Architecture
+<br />
+Visual Design
+<br />
+Collaborative Design Tools (Figma, Adobe XD)
+<br />
+Responsive Design Principles
+<br />
+HTML, CSS & Bootstrap
+<br />
+Git & Github
+<br />
+Back-end Development(Python - Django)
 </p>
 
 
@@ -64,13 +103,13 @@ Want to become an Wed and Mobile Application Designer 💸 and an Open Source Co
 
 
 
-###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/)
+###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh/)
 or [![Gmail Badge](https://img.shields.io/badge/-cr7.saharukh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cr7.saharukh@gmail.com)](mailto:cr7.saharukh@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [GitHub followers](https://github.com/SaharukhShaikh)
 
-###### ❤️ Connect with me :[Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh-652b7b157/)
+###### ❤️ Connect with me :[Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh/)
 
 
 ----------------------------------------------------------
