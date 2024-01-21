@@ -72,7 +72,6 @@ Back-end Development(Python - Django)
 - 📝 [Resume](https://drive.google.com/file/d/19SfVB4jr5yz7a-5nVXlwMNd9c9yoGkhP/view)
 
 ### 🛠️ Languages and Tools:
-<br />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
 ![Adobe-InDesign](https://img.shields.io/badge/Adobe-InDesign-FF61F6?style=for-the-badge&logo=Adobe-InDesign&logoColor=Red)
 ![adobepremierepro](https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
