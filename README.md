@@ -26,23 +26,17 @@
 <br />
 🌐 Professional Journey:
 <br />
-Having embarked on my journey in the dynamic world of design, I've accumulated 4 years of experience in conceptualising and delivering innovative solutions. 
-<br />
-My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
+Having embarked on my journey in the dynamic world of design, I've accumulated 4 years of experience in conceptualising and delivering innovative solutions.My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
 <br />
 <br />
 💼 Expertise:
 <br />
-From wire-framing to prototyping and everything in between, I specialise in translating ideas into intuitive and visually stunning interfaces. 
-<br />
-Proficient in industry-standard tools like Adobe Creative Suite, and Figma, I am well-versed in the nuances of user-centered design.
+From wire-framing to prototyping and everything in between, I specialise in translating ideas into intuitive and visually stunning interfaces.Proficient in industry-standard tools like Adobe Creative Suite, and Figma, I am well-versed in the nuances of user-centered design.
 <br />
 <br />
 🚀 Design Philosophy:
 <br />
-I believe that effective design is not just about aesthetics; it's about enhancing functionality and creating a delightful user journey. 
-<br />
-Every pixel I place is a deliberate step towards achieving a harmonious balance between form and function.
+I believe that effective design is not just about aesthetics; it's about enhancing functionality and creating a delightful user journey.Every pixel I place is a deliberate step towards achieving a harmonious balance between form and function.
 <br />
 <br />
 🔧 Skill Set:
