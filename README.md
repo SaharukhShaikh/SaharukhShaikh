@@ -21,9 +21,8 @@
 
 <p>
 <br />
-🎨 Welcome to my creative corner! I'm Saharukh Shaikh a passionate UI/UX designer committed to crafting seamless and visually appealing digital experiences. 
-<br />  
-With a blend of artistic flair and technical expertise, I thrive on transforming complex ideas into user-friendly designs.
+🎨 Welcome to my creative corner! I'm Saharukh Shaikh a passionate UI/UX designer committed to crafting seamless and visually appealing digital experiences. With a blend of artistic flair and technical expertise, I thrive on transforming complex ideas into user-friendly designs.
+<br />
 <br />
 🌐 Professional Journey:
 <br />
@@ -31,17 +30,20 @@ Having embarked on my journey in the dynamic world of design, I've accumulated 4
 <br />
 My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
 <br />
+<br />
 💼 Expertise:
 <br />
 From wire-framing to prototyping and everything in between, I specialise in translating ideas into intuitive and visually stunning interfaces. 
 <br />
 Proficient in industry-standard tools like Adobe Creative Suite, and Figma, I am well-versed in the nuances of user-centered design.
 <br />
+<br />
 🚀 Design Philosophy:
 <br />
 I believe that effective design is not just about aesthetics; it's about enhancing functionality and creating a delightful user journey. 
 <br />
 Every pixel I place is a deliberate step towards achieving a harmonious balance between form and function.
+<br />
 <br />
 🔧 Skill Set:
 <br />
@@ -67,25 +69,22 @@ Git & Github
 <br />
 Back-end Development(Python - Django)
 </p>
-
-
-  
+<br />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Trainee @ [TECHIS](https://techis.io/)
+- 👨🏽‍💻 I’m worked as a Wed developer Trainee @ [TECHIS](https://techis.io/)
 - 📫 How to reach me: [cr7.saharukh@gmail.com]
-- 📝 [Resume](https://drive.google.com/file/d/1Tmrog8j8PrRDASTHmnRvYJmC4eW9OLCL/view)
+- 📝 [Resume](https://drive.google.com/file/d/19SfVB4jr5yz7a-5nVXlwMNd9c9yoGkhP/view)
 
 ### 🛠️ Languages and Tools:
-
+<br />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
 ![Adobe-InDesign](https://img.shields.io/badge/Adobe-InDesign-FF61F6?style=for-the-badge&logo=Adobe-InDesign&logoColor=Red)
 ![adobepremierepro](https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
 ![Adobe-xd](https://img.shields.io/badge/Adobe-xd-FF61F6?style=for-the-badge&logo=Adobe-xd&logoColor=black)
 ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
