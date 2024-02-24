@@ -21,7 +21,7 @@
 
 <p>
 <br />
-🎨 Welcome to my creative corner! I'm Saharukh Shaikh a passionate Web designer committed to crafting seamless and visually appealing digital experiences. With a blend of artistic flair and technical expertise, I thrive on transforming complex ideas into user-friendly designs.
+🎨 Welcome to my creative corner! I'm Saharukh Shaikh a passionate UI/UX Designer and Web designer & Developer committed to crafting seamless and visually appealing digital experiences. With a blend of artistic flair and technical expertise, I thrive on transforming complex ideas into user-friendly designs.
 <br />
 <br />
 🌐 Professional Journey:
@@ -75,7 +75,8 @@ Deployment(Heroku, Replit etc)
 
 - 👨🏽‍💻 I’m worked as a Wed developer Trainee @ [TECHIS](https://techis.io/)
 - 📫 How to reach me: [cr7.saharukh@gmail.com]
-- 📝 [Resume](https://drive.google.com/file/d/1nE1v08uaou0_Jk2RqfmFp_R3yuxLcqhO/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1Gf8sKeSfXJNsgRPAZJ_oBvHIwo5Xworq/view?usp=drive_link)
+- 📫 [My Portfolio Link](https://portfolio-uw6k.vercel.app/)
 
 ### 🛠️ Languages and Tools:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
