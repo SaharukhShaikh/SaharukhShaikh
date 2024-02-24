@@ -61,13 +61,15 @@ HTML, CSS ,Bootstrap & Material UI
 <br />
 Git & Github
 <br />
+Ai App and Website Development - Imagica
+<br />
 Front-end Development(React)
 <br />
 Back-end Development(Python - Django)
 <br />
 MYSQL and Database Management
 <br />
-Deployment(Heroku, Replit etc)
+Deployment(Heroku, Replit, Versel, Netlify etc)
 </p>
 <br />
   
@@ -90,6 +92,9 @@ Deployment(Heroku, Replit etc)
 ![HTML5](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Versel](https://img.shields.io/badge/Versel-430098?style=for-the-badge&logo=heroku&logoColor=red)
+![Netlify](https://img.shields.io/badge/Netlify-430098?style=for-the-badge&logo=heroku&logoColor=yellow)
+![Ai App and Website Development](https://img.shields.io/badge/Ai%20App%20and%20Website%20Development-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
