@@ -26,7 +26,7 @@
 <br />
 🌐 Professional Journey:
 <br />
-Having embarked on my journey in the dynamic world of design, I've accumulated 4 years of experience in conceptualising and delivering innovative solutions.My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
+Having embarked on my journey in the dynamic world of design, I've accumulated 5 years of experience in conceptualising and delivering innovative solutions.My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
 <br />
 <br />
 💼 Expertise:
