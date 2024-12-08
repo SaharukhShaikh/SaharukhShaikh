@@ -10,7 +10,7 @@
 
 
 
-<a href="mailto:cr7.saharukh@gmail.com">
+<a href="mailto:saharukhshaikh460@gmail.com">
   <img align="left" alt="saharukh's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -21,62 +21,44 @@
 
 <p>
 <br />
-🎨 Welcome to my creative corner! I'm Saharukh Shaikh a passionate UI/UX Designer and Web designer & Developer committed to crafting seamless and visually appealing digital experiences. With a blend of artistic flair and technical expertise, I thrive on transforming complex ideas into user-friendly designs.
+🎨 Hi, I’m Saharukh Shaikh — A passionate Project Manager with diverse skills in Project Management, Data Analyst and Full Stack Development committed to blending artistic creativity with technical precision. I specialise in transforming complex concepts into seamless, user-friendly solutions that drive real business value.
 <br />
 <br />
 🌐 Professional Journey:
 <br />
-Having embarked on my journey in the dynamic world of design, I've accumulated 5 years of experience in conceptualising and delivering innovative solutions.My professional path has been shaped by a relentless pursuit of excellence, with a focus on creating designs that not only meet but exceed user expectations.
+With over 5 years of experience, I’ve built a strong track record of aligning project goals with business objectives and ensuring timely, within-budget project delivery. From strategic planning to execution, I manage all aspects of the project lifecycle, coordinating resources, managing risks, and communicating with stakeholders to ensure success.
 <br />
 <br />
 💼 Expertise:
 <br />
-From wire-framing to prototyping and everything in between, I specialise in translating ideas into intuitive and visually stunning interfaces.Proficient in industry-standard tools like Adobe Creative Suite, and Figma, I am well-versed in the nuances of user-centered design.
+As a skilled project manager and tech enthusiast, I excel in overseeing the execution of technology projects, leading cross-functional teams, and delivering results that matter. I thrive in dynamic environments, handling project scope, task coordination, risk mitigation, and stakeholder engagement with ease.
 <br />
 <br />
-🚀 Design Philosophy:
+🚀 My Philosophy:
 <br />
-I believe that effective design is not just about aesthetics; it's about enhancing functionality and creating a delightful user journey.Every pixel I place is a deliberate step towards achieving a harmonious balance between form and function.
+I believe in the power of collaboration, innovation, and continuous improvement. By combining deep technical knowledge with strategic project planning, I focus on data-driven insights, efficient execution, and robust backend solutions. I’m passionate about delivering technology-driven solutions that exceed expectations.
 <br />
 <br />
 🔧 Skill Set:
 <br />
-User Interface (UI) Design
+Project Management Tools: Jira, Microsoft Project, Trello
 <br />
-User Experience (UX) Design
+Methodologies: Agile, Scrum
 <br />
-Wireframing & Prototyping
+Data Analysis & Reporting: Tableau, Power BI
 <br />
-Interaction Design
+Technical Skills: SQL, MySQL, Python (Django),HTML,CSS
 <br />
-Information Architecture
+Designing Tools: Figma, Adobe XD
 <br />
-Visual Design
-<br />
-Collaborative Design Tools (Figma, Adobe XD)
-<br />
-Responsive Design Principles
-<br />
-HTML, CSS ,Bootstrap & Material UI
-<br />
-Git & Github
-<br />
-Ai App and Website Development - Imagica
-<br />
-Front-end Development(React)
-<br />
-Back-end Development(Python - Django)
-<br />
-MYSQL and Database Management
-<br />
-Deployment(Heroku, Replit, Versel, Netlify etc)
+Deployment: Heroku, Replit, Vercel, Netlify
 </p>
 <br />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m worked as a Wed developer Trainee @ [TECHIS](https://techis.io/)
-- 📫 How to reach me: [cr7.saharukh@gmail.com]
+- 👨🏽‍💻 I’m worked as a Data Analyst | Project Management @ [TECHIS](https://techis.io/)
+- 📫 How to reach me: [saharukhshaikh460@gmail.com]
 - 📝 [Resume](https://drive.google.com/file/d/1Gf8sKeSfXJNsgRPAZJ_oBvHIwo5Xworq/view?usp=drive_link)
 - 📫 [My Portfolio Link](https://portfolio-uw6k.vercel.app/)
 
