@@ -90,7 +90,7 @@ Deployment: Heroku, Replit, Vercel, Netlify
 
 
 ###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh/)
-or [![Gmail Badge](https://img.shields.io/badge/-cr7.saharukh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cr7.saharukh@gmail.com)](mailto:cr7.saharukh@gmail.com)
+or [![Gmail Badge](https://img.shields.io/badge/-cr7.saharukh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukhshaikh460@gmail.com)](mailto:saharukhshaikh460@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [GitHub followers](https://github.com/SaharukhShaikh)
