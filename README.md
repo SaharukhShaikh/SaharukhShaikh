@@ -59,7 +59,7 @@ Deployment: Heroku, Replit, Vercel, Netlify
 
 - 👨🏽‍💻 I’m worked as a Data Analyst | Project Management @ [TECHIS](https://techis.io/)
 - 📫 How to reach me: [saharukhshaikh460@gmail.com]
-- 📝 [Resume](https://drive.google.com/file/d/1Gf8sKeSfXJNsgRPAZJ_oBvHIwo5Xworq/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/1PE3df3AYgyyJKZG2FbAkNFoZEBCrTj8P/view)
 - 📫 [My Portfolio Link](https://portfolio-uw6k.vercel.app/)
 
 ### 🛠️ Languages and Tools:
@@ -90,7 +90,7 @@ Deployment: Heroku, Replit, Vercel, Netlify
 
 
 ###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/saharukh-shaikh/)
-or [![Gmail Badge](https://img.shields.io/badge/-cr7.saharukh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukhshaikh460@gmail.com)](mailto:saharukhshaikh460@gmail.com)
+or [![Gmail Badge](https://img.shields.io/badge/-saharukhshaikh460@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saharukhshaikh460@gmail.com)](mailto:saharukhshaikh460@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [GitHub followers](https://github.com/SaharukhShaikh)
