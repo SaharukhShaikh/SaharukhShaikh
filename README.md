@@ -57,7 +57,7 @@ Deployment: Heroku, Replit, Vercel, Netlify
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m worked as a Data Analyst | Project Management @ [TECHIS](https://techis.io/)
+- 👨🏽‍💻 I worked as a Data Analyst | Project Management @ [TECHIS](https://techis.io/)
 - 📫 How to reach me: [saharukhshaikh460@gmail.com]
 - 📝 [Resume](https://drive.google.com/file/d/1PE3df3AYgyyJKZG2FbAkNFoZEBCrTj8P/view)
 - 📫 [My Portfolio Link](https://portfolio-uw6k.vercel.app/)
